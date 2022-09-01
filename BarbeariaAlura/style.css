@@ -1,6 +1,7 @@
-h1{
+h1 {
     padding-left: 30px;
 }
+
 #banner {
     width: 100%;
 }
@@ -10,7 +11,7 @@ h1{
     padding: 30px;
 }
 
-.titulo-centralizado{
+.titulo-centralizado {
     text-align: center;
 }
 
